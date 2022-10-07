@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @tuquynhln
-- 👀 I’m interested in cybersecurity and cloud computing
+- 👀 I’m interested in data science and cybersecurity
 - 🌱 I’m currently pursuing a Bachelor of Science in Information Systems
